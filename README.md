@@ -1,14 +1,19 @@
-# Drive Quest App
+# Drive Quest App Description
+The California DMV driving test is a source of anxiety and stress for driving students. Combat this by using the Drive Quest Instructor, supported by the research-backed Drive Quest Authorized Driving School! Evaluate your student’s driving in a format similar to the DMV’s testing sheet and then send them their results so that they can practice at home. 
 
-Lucas Torti 3-7-22 work for the previous week
+Includes features such as:
 
-- Pair programmed with Kevan to create additional function in StorageHandler.js
+- Customizable sounds that will play when the student makes an error, alleviating the tension and allowing for the student to learn more efficiently.
+- Automatic calculation of a pass/failure depending on your evaluation of the student.
+- All DMV related criteria from smooth steering to automatic disqualification.
+- Automatic saving of your test progress.
+- Share results with anyone, including the student, their parents, or yourself!
 
-Lucas Torti 3-14-22 work for the previous week
+Transform the learning experience for new drivers by using our app today!
 
-- Group programmed with Kevan and Mark to implement storage handler functionality in the login screen
+DISCLAIMER:
 
-All Files required for App
+The sole purpose of this mobile application is to help you in the DMV driving test. You can not use this app as evidence or in legal matters. For clear understanding, read the official California driver's manual.
 
 ## Installation
 
