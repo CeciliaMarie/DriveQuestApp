@@ -15,6 +15,8 @@ DISCLAIMER:
 
 The sole purpose of this mobile application is to help you in the DMV driving test. You can not use this app as evidence or in legal matters. For clear understanding, read the official California driver's manual.
 
+This app was developed as a part of a team
+
 ## Installation
 
 #### This assumes you have already installed Expo and React Native
